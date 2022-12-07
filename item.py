@@ -72,4 +72,4 @@ class Item:
 
 
     def __repr__(self): # used to control how we represent the object
-        return f"{self.__class__.__name__}('{self.name}', '{self.__price}','{self.quantity}')"
+        return f"{self.__class__.__name__}('{self.name}', '{self.__price}','{self.quantity}"

@@ -12,4 +12,3 @@ class Phone(Item):
         # assign to self object
         self.broken_phones = broken_phones
 
-        # Actions to execute
